@@ -56,5 +56,5 @@ void loop() {
 # ビルドと実行
 
 ```
-platformio run --target=upload
+$ platformio run --target=upload
 ```
