@@ -15,3 +15,5 @@ Ctrl + Alt + B
 # Upload
 
 Ctrl + Alt + U
+
+* [arduino-uno-schematic](https://www.arduino.cc/en/uploads/Main/arduino-uno-schematic.pdf)
